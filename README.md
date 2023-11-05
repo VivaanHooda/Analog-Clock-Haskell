@@ -22,7 +22,7 @@ This Haskell project creates an analog clock that visually represents the curren
 1. Make sure you have [Haskell](https://www.haskell.org/downloads/) and [Cabal](https://www.haskell.org/cabal/download.html) installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/specdrake28/Analog-Clock-Haskell.git
+   git clone https://github.com/VivaanHooda/Analog-Clock-Haskell.git
    
 3. Navigate to the project directory:
    ```bash
@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or suggestions, you can reach me at vivaan.hooda@gmail.com or via [GitHub](https://github.com/specdrake28).
+If you have any questions or suggestions, you can reach me at vivaan.hooda@gmail.com or via [GitHub](https://github.com/VivaanHooda).
 
-Project Link: [https://github.com/specdrake28/Analog-Clock-Haskell](https://github.com/specdrake28/Analog-Clock-Haskell)
+Project Link: [https://github.com/VivaanHooda/Analog-Clock-Haskell](https://github.com/VivaanHooda/Analog-Clock-Haskell)
