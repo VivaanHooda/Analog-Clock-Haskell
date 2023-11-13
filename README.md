@@ -3,7 +3,7 @@ This project has been developed utilizing the programming language Haskell to pr
 
 # Haskell Analog Clock
 
-A simple Haskell project that displays the current time on an analog clock using the Gloss library.
+A simple Haskell project that displays the current (UTC+05:30) time on an analog clock using the Gloss library.
 
 ## Table of Contents
 - [Description](#description)
